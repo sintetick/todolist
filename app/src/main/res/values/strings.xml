@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="save">Salvează</string>
+    <string name="new_task">New Task</string>
+    <string name="tasks">Tasks | Laborator nr. 3</string>
+</resources>
